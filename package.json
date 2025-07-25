@@ -5,7 +5,8 @@
   "private": true,
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^6.1.0",
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "hardhat-deploy": "^1.0.4"
   },
   "peerDependencies": {
     "typescript": "^5"
