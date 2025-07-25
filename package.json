@@ -1,5 +1,5 @@
 {
-  "name": "fundme",
+  "name": "fundme2",
   "module": "index.ts",
   "type": "module",
   "private": true,
@@ -11,6 +11,7 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "dotenv": "^17.2.1",
     "hardhat": "^2.26.1"
   }
 }
